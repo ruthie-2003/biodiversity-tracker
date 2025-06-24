@@ -1,0 +1,16 @@
+Django>=4.2
+celery
+django-celery-beat
+pymongo
+dnspython
+gunicorn
+pyinaturalist
+python-dateutil
+requests
+django-environ
+django-cors-headers
+shapely
+PyJWT
+bcrypt
+djangorestframework
+djangorestframework-simplejwt

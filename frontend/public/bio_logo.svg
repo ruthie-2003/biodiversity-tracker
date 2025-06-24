@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Pin base -->
+  <path d="M100 180 C60 130, 40 90, 100 40 C160 90, 140 130, 100 180 Z" fill="#4CAF50" stroke="#2E7D32" stroke-width="4"/>
+
+  <!-- Inner circle (location center) -->
+  <circle cx="100" cy="100" r="22" fill="#A5D6A7" stroke="#1B5E20" stroke-width="3"/>
+
+  <!-- Leaf inside pin -->
+  <path d="M100 78 C92 86, 90 105, 100 115 C110 105, 108 86, 100 78 Z" fill="#66BB6A" stroke="#388E3C" stroke-width="2"/>
+
+  <!-- Beetle silhouette -->
+  <ellipse cx="100" cy="100" rx="6" ry="10" fill="#2E7D32"/>
+  <line x1="100" y1="90" x2="100" y2="110" stroke="#1B5E20" stroke-width="2"/>
+  <line x1="94" y1="95" x2="106" y2="95" stroke="#1B5E20" stroke-width="1"/>
+  <line x1="94" y1="105" x2="106" y2="105" stroke="#1B5E20" stroke-width="1"/>
+</svg>

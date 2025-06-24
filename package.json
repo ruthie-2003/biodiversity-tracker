@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dayjs": "^1.11.13",
+    "element-plus": "^2.10.1",
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3",
+    "lodash.debounce": "^4.0.8",
+    "lucide-vue-next": "^0.511.0",
+    "plotly.js-dist": "^3.0.1",
+    "plotly.js-dist-min": "^3.0.1",
+    "tailwindcss-no-scrollbar": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/plotly.js": "^3.0.0"
+  }
+}
