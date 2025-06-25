@@ -89,7 +89,7 @@ const renderChart = () => {
   const layout: Partial<Plotly.Layout> = {
     barmode: 'stack',
     xaxis: {
-      title: { text: 'Month' },
+      title: { text: 'Time' },
       tickangle: -45,
       type: 'category'
     },
