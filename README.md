@@ -11,8 +11,8 @@ This project is a **web-based platform for biodiversity tracking and visualizati
 * **University**: Universitat Autònoma de Barcelona (UAB)
 * **Department**: Escola d'Enginyeria
 * **Degree**: Grau en Enginyeria Informàtica
-* **Tutor**: Mehmet Oguz Mulayim
-* **Student**: Ruth Mary Kurian Chandy ([RuthMary.Kurian@autonoma.cat](mailto:RuthMary.Kurian@autonoma.cat))
+* **Tutor**: Mehmet Oguz Mulayim ([@omulayim](https://github.com/omulayim))
+* **Student**: Ruth Mary Kurian Chandy ([@ruthie-2003](https://github.com/ruthie-2003))
 * **TFG Title**: *Development of a Web-Based Platform for Biodiversity Tracking and Visualization*
 
 ---
